@@ -1,24 +1,26 @@
-# cryptomicon
+# Cryptonomicon
 
-## Project setup
+Практика. Работе с Vue 3. Работа с websocket. Учебный проект.
+
+## Установка
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Компиляция и hot-reloads для Разработки
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Компиляция и минификация для production
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### Линтинг
 ```
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Демо
+[Cryptonomicon](https://cli.vuejs.org/config/).
