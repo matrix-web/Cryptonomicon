@@ -21,6 +21,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Демо
-[Cryptonomicon](https://cli.vuejs.org/config/).
